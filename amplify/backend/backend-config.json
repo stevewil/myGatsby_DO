@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "mygatsbydo9bd3c813": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
