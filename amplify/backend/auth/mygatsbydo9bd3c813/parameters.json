@@ -58,5 +58,5 @@
     "userPoolGroupList": [],
     "serviceName": "Cognito",
     "dependsOn": [],
-    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"https://my-gatsby-do-pz4yq.ondigitalocean.app/services/\"],\"LogoutURLs\":[\"https://my-gatsby-do-pz4yq.ondigitalocean.app/services/\"]}"
+    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"https://stevewil.me/services/\"],\"LogoutURLs\":[\"https://stevewil.me/services/\"]}"
 }
