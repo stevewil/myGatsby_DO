@@ -55,8 +55,8 @@
         "Google"
     ],
     "hostedUIProviderMeta": "[{\"ProviderName\":\"Google\",\"authorize_scopes\":\"openid email profile\",\"AttributeMapping\":{\"email\":\"email\",\"username\":\"sub\"}}]",
-    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"https://my-gatsby-do-pz4yq.ondigitalocean.app/services/\"],\"LogoutURLs\":[\"https://my-gatsby-do-pz4yq.ondigitalocean.app/services/\"]}",
     "userPoolGroupList": [],
     "serviceName": "Cognito",
-    "dependsOn": []
+    "dependsOn": [],
+    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"https://my-gatsby-do-pz4yq.ondigitalocean.app/services/\"],\"LogoutURLs\":[\"https://my-gatsby-do-pz4yq.ondigitalocean.app/services/\"]}"
 }
